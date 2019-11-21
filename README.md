@@ -25,7 +25,7 @@ Clone or download this repository on your computer, and then run ```mvn install`
 
 ```shell
 git clone https://github.com/kylan11/gv-properties-plus
-cd gv-adapter-mongodb
+cd gv-properties-plus
 mvn install
 ```
 
