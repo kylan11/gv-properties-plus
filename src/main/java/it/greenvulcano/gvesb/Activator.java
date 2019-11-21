@@ -10,7 +10,6 @@ public class Activator implements BundleActivator {
 	@Override
 	public void start(BundleContext context) throws Exception {
 
-		// register the operations associated to the MongoDB connector
 		PropertiesHandler.registerHandler(new GVESBPlusPropertyHandler());
 	}
 
