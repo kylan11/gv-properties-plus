@@ -4,6 +4,7 @@
 This unofficial GreenVulcano extension (currently work in progress) adds a new placeholder: the ```sqljson```, which acts both as ```sql``` and ```sqltable``` placeholders, depending on how many results it has to fetch.
 Expect more features coming soon!
 
+
 ## Getting started
 
 ### Prerequisites
